@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Irene-123
 - 👀 I’m interested in Blockchains 
-- 🌱 I’m currently learning NLP, Ml for chatbots using knowledge graphs(neo4j)
+- 🌱 I’m currently learning NLP, ML for chatbots using knowledge graphs(neo4j)
 - 💞️ I’m looking to collaborate on web dev projects, ML & Blockchains! 
 - 📫 How to reach me kirtipurohit025@gmail.com
 
