@@ -3,7 +3,7 @@
     <img src="https://user-images.githubusercontent.com/20955511/199138068-0a7b7b75-a024-4f00-803f-30a19c5d1b2d.png" alt="Kirti Purohit" /></a>
 </p> -->
 
-<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hello, I'm Kirti. I do open source!" src="assets\header.png" /></a></p>
+<p align="center"><a href="#"><img width="80%" alt="Hello, I'm Kirti. I do open source!" src="assets\header3.png" /></a></p>
 
 
 
