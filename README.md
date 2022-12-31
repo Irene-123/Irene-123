@@ -5,16 +5,8 @@
 
 <p align="center"><a href="#"><img width="80%" alt="Hello, I'm Kirti. I do open source!" src="assets\header2.png" /></a></p>
 
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7146A&center=true&width=435&lines=Software+developer;4%2B+years+of+coding+experience;Learning+blockchain+development)](https://git.io/typing-svg)
 
-
-<p align="center">
-  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-  <a href="https://github.com/Irene-123/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Software%20developer;
-    Learning%20Blockchain%20Development;
-    4%2B%20years%20of%20coding%20experience;
-    Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
-</p>
 
 <!-- <h2 align="center"> 🙋🏻‍♂️Connect with me</h3> -->
 <p align="center">
