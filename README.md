@@ -32,12 +32,15 @@
   <div align="center"><h3>🔥 Streak Stats</h3>
 
   <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
-  <div align="center"><p>
+<!--   <div align="center"><p>
     <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
       <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Irene-123's streak" src="https://streak-stats.demolab.com/?user=Irene-123&theme=monokai-metallian&hide_border=true"/>
     </a>
     <!-- <p>🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>-->
-  </p></div>
+  </p></div> -->
+  
+  [![GitHub Streak](https://streak-stats.demolab.com?user=Irene-123&theme=radical)](https://git.io/streak-stats)
+
 
   <h3>💻 GitHub Profile Stats</h3>
 
