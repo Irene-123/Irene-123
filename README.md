@@ -31,20 +31,9 @@
 
   <div align="center"><h3>🔥 Streak Stats</h3>
 
-<<<<<<< HEAD
-  <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
-  <div align="center"><p>
-    <a href="#">
-      <img title="" alt="Kirti's streak" src="https://streak-stats.demolab.com/?user=Irene-123&theme=monokai-metallian&hide_border=true"/>
-    </a>
-    <!-- <p>🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>-->
-  </p></div>
-=======
+[![GitHub Streak](https://streak-stats.demolab.com?user=Irene-123&theme=radical)](https://git.io/streak-stats)
 
-  
-  [![GitHub Streak](https://streak-stats.demolab.com?user=Irene-123&theme=radical)](https://git.io/streak-stats)
 
->>>>>>> 3ad3b787bafb5c4be729107f18b890baef6cc93c
 
   <h3>💻 GitHub Profile Stats</h3>
 
