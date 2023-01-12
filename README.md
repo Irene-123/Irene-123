@@ -61,11 +61,11 @@
 
   <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
   
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Irene-123&repo=Automated-Trading-simulation&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false)](https://github.com/Irene-123/Automated-Trading-simulation)
+  [![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Irene-123&repo=Automated-Trading-simulation&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false)](https://github.com/Irene-123/Automated-Trading-simulation)
     <!---->
-      [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Irene-123&repo=Ciphers-in-Rust&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false)](https://github.com/Irene-123/Ciphers-in-Rust)
-        [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Irene-123&repo=decentralized-twitter&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false)](https://github.com/Irene-123/decentralized-twitter)
-        [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Irene-123&repo=Dijkstra-Algorithm-in-rust&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false)](https://github.com/Irene-123/Dijkstra-Algorithm-in-rust)
+      [![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Irene-123&repo=Ciphers-in-Rust&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false)](https://github.com/Irene-123/Ciphers-in-Rust)
+        [![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Irene-123&repo=decentralized-twitter&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false)](https://github.com/Irene-123/decentralized-twitter)
+        [![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Irene-123&repo=Dijkstra-Algorithm-in-rust&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false)](https://github.com/Irene-123/Dijkstra-Algorithm-in-rust)
 
     
 </details>
@@ -75,8 +75,8 @@
 
   <!-- Small repo cards https://github.com/DenverCoder1/github-readme-stats (fork of anuraghazra/github-readme-stats) -->
   
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ParityTech&repo=ink&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false)](https://github.com/ParityTech/ink)
-   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Irene-123&repo=HealthCareChatbotAndroid&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false)](https://github.com/Irene-123/HealthCareChatbotAndroid)
+  [![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=ParityTech&repo=ink&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false)](https://github.com/ParityTech/ink)
+   [![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Irene-123&repo=HealthCareChatbotAndroid&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false)](https://github.com/Irene-123/HealthCareChatbotAndroid)
  
   <!--  -->
     
